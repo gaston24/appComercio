@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{83277430-DCDD-4687-9F2A-8E49831D2FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{5FA0EFD2-A27E-4DF6-A47D-221FBA61C8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{B46C7815-009D-4820-A76B-ECA8678A9D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83277430-DCDD-4687-9F2A-8E49831D2FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83277430-DCDD-4687-9F2A-8E49831D2FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83277430-DCDD-4687-9F2A-8E49831D2FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83277430-DCDD-4687-9F2A-8E49831D2FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA0EFD2-A27E-4DF6-A47D-221FBA61C8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA0EFD2-A27E-4DF6-A47D-221FBA61C8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA0EFD2-A27E-4DF6-A47D-221FBA61C8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA0EFD2-A27E-4DF6-A47D-221FBA61C8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46C7815-009D-4820-A76B-ECA8678A9D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46C7815-009D-4820-A76B-ECA8678A9D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46C7815-009D-4820-A76B-ECA8678A9D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46C7815-009D-4820-A76B-ECA8678A9D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F893B8F7-0DEE-4E80-A73D-1D28DEDA65E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Users\Gaston\source\repos\appComercio\Controlador\obj\Debug\Controlador.Properties.Resources.resources
+C:\Users\Gaston\source\repos\appComercio\Controlador\obj\Debug\Controlador.csproj.GenerateResource.cache
+C:\Users\Gaston\source\repos\appComercio\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache

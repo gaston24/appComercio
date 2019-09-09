@@ -1,0 +1,11 @@
+C:\Users\Gaston\source\repos\appComercio\Vista\bin\Debug\Vista.exe.config
+C:\Users\Gaston\source\repos\appComercio\Vista\bin\Debug\Vista.exe
+C:\Users\Gaston\source\repos\appComercio\Vista\bin\Debug\Vista.pdb
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.exe
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.pdb
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.frmInicio.resources
+C:\Users\Gaston\source\repos\appComercio\Vista\obj\Debug\Vista.frmArticulos.resources
